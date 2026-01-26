@@ -6,7 +6,7 @@ This repository contains a **conformed-dimensional star schema** for a logistics
 
 ---
 
-## Entity-Relationship Diagram (Mermaid)
+# Entity-Relationship Diagram (Mermaid)
 
 ```mermaid
 erDiagram
