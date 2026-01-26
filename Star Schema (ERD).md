@@ -286,11 +286,11 @@ erDiagram
 
 ---
 
-## Suggested Repo Structure
+## Repo Structure
 
 ```text
 .
-├── README.md
+├── StarSchema(ERD).md
 ├── sql/
 │   ├── ddl_dimensions.sql
 │   ├── ddl_facts.sql
