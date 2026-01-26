@@ -1,8 +1,10 @@
 # Logistics Analytics Star Schema (ERD)
 
-This repository contains a **conformed-dimensional star schema** for a logistics analytics platform, including shared dimensions (Date, Drivers, Customers, Facilities, Routes, Trailers, Trucks) and multiple operational fact tables (Trips, Delivery Events, Fuel Purchases, Maintenance, Safety Incidents, Loads, plus monthly aggregates).
+This is a **conformed-dimensional star schema** for a logistics analytics platform, including shared 
+dimensions (Date, Drivers, Customers, Facilities, Routes, Trailers, Trucks) and multiple operational 
+fact tables (Trips, Delivery Events, Fuel Purchases, Maintenance, Safety Incidents, Loads, plus monthly aggregates).
 
-✅ The ER diagram below is written in **Mermaid** and will render automatically on GitHub.
+✅ The ER diagram below is written in **Mermaid**.
 
 ---
 
