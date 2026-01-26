@@ -306,6 +306,6 @@ erDiagram
 
 ## How to Use
 
-1. Copy this `README.md` into your GitHub repository root.
-2. GitHub will automatically render the Mermaid ER diagram in the README.
+1. Copy this `StarSchema(ERD).md` into your GitHub repository root.
+2. GitHub will automatically render the Mermaid ER diagram.
 3. Optionally, add DDL scripts under `sql/` and a data dictionary under `docs/`.
