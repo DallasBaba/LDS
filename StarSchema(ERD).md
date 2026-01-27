@@ -2,7 +2,7 @@
 
 This is a **conformed star schema** for the logistics analytics portfolio project, which includes a shared dimensions (Date, Drivers, Customers, Facilities, Routes, Trailers, Trucks) and multiple operational fact tables (Trips, Delivery Events, Fuel Purchases, Maintenance, Safety Incidents, Loads, plus monthly aggregates).
 
-✅ The ER diagram below is written in **Mermaid**.
+The ER diagram below is written in **Mermaid**.
 
 ---
 
