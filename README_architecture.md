@@ -2,7 +2,7 @@
 
 This repository documents a **Medallion (Bronze/Silver/Gold)** architecture for ingesting CSV files into OneLake, transforming with Dataflow Gen2, and serving analytics via a modeled warehouse and Power BI semantic model.
 
-✅ The diagram below is written in **Mermaid** and will render automatically on GitHub.
+The diagram below is written in **Mermaid** and will render automatically on GitHub.
 
 ---
 
